@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiPlus",
+      "FasDiagramProject",
+      "FabJava",
+      "TiMathSymbols",
+      "IbWebsiteWithText"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "CM1101 Computational thinking": "LiBrain",
+  "CM1102 Web Applications": "IbWebsiteWithText",
+  "CM1103 Problem Solving with Python": "SiPython",
+  "CM1301 Principles, Tools, and Techniques for Secure Software Engineering": "FasDiagramProject",
+  "CM1205 Architecture and Operating Systems": "LiCpu",
+  "CM1208 Maths for Computer Science": "TiMathSymbols",
+  "CM1210 Object Orientated Java Programming": "FabJava",
+  "Extras/Images": "FarImages",
+  "Extras/Old Cheat Sheets": "FasSheetPlastic",
+  "Extras": "LiPlus"
+}
