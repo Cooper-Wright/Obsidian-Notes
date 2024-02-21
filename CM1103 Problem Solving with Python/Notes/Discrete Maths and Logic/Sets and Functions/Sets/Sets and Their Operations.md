@@ -114,6 +114,7 @@
 	- To test whether A ∩ B, use ```A & B```
 	- To test whether A - B, use ```A - B```
 
+[[All Three Grand Tour Winners|Example of Sets use in Python]]
 
 ##### What is a [[Venn diagrams]]?
 *A [[Venn diagrams]] is a diagram which can represent two or more sets relationship*

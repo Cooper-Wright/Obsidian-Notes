@@ -18,3 +18,5 @@ Then,
 $r+s = \frac{a}{b} + \frac{c}{d} = \frac{ad+bc}{bd}$
 
 Therefore because the products and sums of integers are integers, therefore the addition of the rational numbers is a rational number.
+
+**<u>More of an explanation</u> [[Introductions to Proofs#What are Direct Proof Direct Proofs ?|Here]]**

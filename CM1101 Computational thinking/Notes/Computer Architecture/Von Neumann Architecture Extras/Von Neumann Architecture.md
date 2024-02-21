@@ -51,5 +51,5 @@ Since signals cannot travel faster than the speed of light (3 x10^8), so the big
 
 ###### What is Moore's Law?
 
-[[Moore's Law]]
+[[CM1101 Computational thinking/Notes/Computer Architecture/Laws/Moore's Law]]
 
