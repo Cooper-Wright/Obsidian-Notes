@@ -31,5 +31,5 @@ Also Programs in Java are either **Applets** or **Applications**:
 - [[Terminal Input]]
 - [[While Loops]]
 - [[For Loops]]
-- [[If Statements]]
+- [[CM1210 Object Orientated Java Programming/Notes/Matthew/1. From Python to Java/Java Versus Python/If Statements]]
 - [[Switch Statements]]

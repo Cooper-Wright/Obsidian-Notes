@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "2b14a52635218d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cdd3178c90cff41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "560c648201cddf28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CM1205 Architecture and Operating Systems/Notes/Week 1/Different Computers Throughout History/Late Modern Period (1800 - 1945) Part Two.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5183b5f3c2d556f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2367ec3d1027b07",
+    "type": "split",
+    "children": [
+      {
+        "id": "67fbf556e56b47e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d867bde6540c30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23a3c79042218bcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fe7e23d6aa7348c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.51103591918945
+  },
+  "right": {
+    "id": "c625e50c7be65d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "f31cb08fdcc682b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d5b6b4d5255d15b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dac7fcb6199b40e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eba08bf1dbf44b9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "375b079e2ac5731a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4487ca0136a5eacd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "06ac4023bca44cea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "d5183b5f3c2d556f",
+  "lastOpenFiles": [
+    "CM1205 Architecture and Operating Systems/Notes/Week 2/The Structure of Computers.md",
+    "Computer Level Hierarchy.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 2/Laws Relating to Computer Development/Virtuous Economic Circle (Economy).md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 2/Laws Relating to Computer Development/Nathan's 1st Law of Software (Human Nature).md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 2/Laws Relating to Computer Development",
+    "CM1205 Architecture and Operating Systems/Notes/Week 2/Laws Relating to Computer Development/Moore's Law (Technology).md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 2/Seminar/Seminar Week 2.md",
+    "CM1205 Architecture and Operating Systems/Search Folder/- CM1205 Architecture and Operating Systems.md",
+    "CM1205 Architecture and Operating Systems/Notes/Introduction.md",
+    "- Module Search.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 1/Introduction and History of Computer Development.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 2/Seminar",
+    "CM1205 Architecture and Operating Systems/Notes/Week 1/Different Computers Throughout History/Astronomy motivated Computers.md",
+    "Extras/Images/Pasted image 20240205150736.png",
+    "Extras/Images/Pasted image 20240205150430.png",
+    "Extras/Images/Pasted image 20240205150310.png",
+    "CM1205 Architecture and Operating Systems/Notes/Week 1/Different Computers Throughout History/Late Modern Period (1800 - 1945) Part Two.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 2",
+    "CM1205 Architecture and Operating Systems/Notes/Week 1/Different Computers Throughout History/Late Modern Period (1800 - 1945) Part One.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 1/Different Computers Throughout History/Early Modern Period (1500 - 1800).md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 1/Different Computers Throughout History/Renaissance (1300 - 1600).md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 1/Different Computers Throughout History/Contemporary period (1945 - Present).md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 1/Different Computers Throughout History/Ancient and Medieval.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Spring Week 2/Modularity.md",
+    "Extras/Images/Pasted image 20240204211430.png",
+    "Extras/Images/Pasted image 20240204211103.png",
+    "Extras/Images/Pasted image 20240204211047.png",
+    "Extras/Images/Pasted image 20240204210823.png",
+    "Extras/Images/Pasted image 20240204210804.png",
+    "Extras/Images/Pasted image 20240204210746.png",
+    "Extras/Images/Pasted image 20240204210635.png",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Spring Week 2",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Search Folder/- CM1301 Principles, Tools, and Techniques for Secure Software Engineering.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Spring Week 1/How to Model Object Oriented Programming.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Introduction.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Spring Week 1/Class-Responsibility-Collaboration Cards (CRC Cards).md",
+    "CM1208 Maths for Computer Science/Notes/Week 1/Logical Thinking Versus Algorithmic Thinking.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Spring Week 1",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Autumn Week 12",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Autumn Week 12/Collaboration or Activity Diagrams.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Autumn Week 12/OOP Specifics/Objects.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Autumn Week 12/OOP Specifics/Classes.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 1/Different Computers Throughout History",
+    "CM1205 Architecture and Operating Systems/Notes/Week 1",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Autumn Week 12/OOP Specifics",
+    "Classes",
+    "Untitled.canvas"
+  ]
+}

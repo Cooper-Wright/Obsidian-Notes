@@ -125,7 +125,7 @@
 - *Separate normal and error handling code*
 - *Group and differentiate error types*
 
-***Definition: An event which occurs during the execution of aprogram that disrupts the normal flow of the program’s instructions (Oracle 2019)***
+***Definition: An event which occurs during the execution of a program that disrupts the normal flow of the program’s instructions (Oracle 2019)***
 
 ![[Pasted image 20240218150251.png]]
 

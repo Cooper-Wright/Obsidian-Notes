@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPlus",
-      "FasDiagramProject",
-      "FabJava",
-      "TiMathSymbols",
-      "IbWebsiteWithText"
+      "FasFilePdf",
+      "LiBook",
+      "TiBooks",
+      "RaBook",
+      "LiPlus"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,7 @@
   "CM1210 Object Orientated Java Programming": "FabJava",
   "Extras/Images": "FarImages",
   "Extras/Old Cheat Sheets": "FasSheetPlastic",
-  "Extras": "LiPlus"
+  "Extras": "LiPlus",
+  "Extras/Library and Referencing.md": "LiBook",
+  "Extras/PDFs": "FasFilePdf"
 }

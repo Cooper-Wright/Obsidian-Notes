@@ -25,7 +25,7 @@
 
 ### Level 2: Machine Level
 
-- *Also known as Instruction Set Architecture (ISA) Level.*
+- *Also known as [[Instruction Set Architecture]] (ISA) Level.*
 - *This consists of machine language.*
 - *Where an instruction may be carried out in **hardware** control unit (direct execution) or microprogrammed control unit (aka [[Computer Level Hierarchy#Level 1 Control Level|Level 1]]).*
 

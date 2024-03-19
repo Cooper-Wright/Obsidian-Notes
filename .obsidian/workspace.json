@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "35e9ceffdccae218",
+        "id": "09fc84d9ab504f78",
         "type": "tabs",
         "children": [
           {
-            "id": "375f35e30a3231e5",
+            "id": "ccf988137bb99014",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CM1102 Web Applications/Notes/UNIX and Linux/Frank Langbein Useful Slides.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM1102 Web Applications/Notes/UNIX and Linux/Frank Langbein Useful Slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM1102 Web Applications/Notes/UNIX and Linux/Frank Langbein Useful Slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CM1102 Web Applications/Notes/UNIX and Linux/Frank Langbein Useful Slides.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,54 +161,54 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "375f35e30a3231e5",
+  "active": "ccf988137bb99014",
   "lastOpenFiles": [
-    "CM1102 Web Applications/Notes/HTML, CSS, JavaScript and CGI/JavaScript/JavaScript.md",
-    "- Module Search - Copy.md",
-    "Extras/Obsidian help page.md",
-    "Extras/Old Cheat Sheets/Principles, Tools and Techniques for Secure Software Engineering Cheat Sheet - January.md",
-    "CM1103 Problem Solving with Python/Notes/Discrete Maths and Logic/Sets and Functions/Sets/Sets and Their Operations.md",
-    "CM1103 Problem Solving with Python/Search Folder/- CM1103 Problem Solving with Python.md",
-    "- Module Search.md",
-    "CM1210 Object Orientated Java Programming/Search Folder/- CM1210 Object Orientated Java Programming.md",
-    "CM1205 Architecture and Operating Systems/Search Folder/- CM1205 Architecture and Operating Systems.md",
-    "Untitled.canvas",
     "CM1208 Maths for Computer Science/Search Folder/- CM1208 Maths for Computer Science.md",
-    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes",
-    "CM1210 Object Orientated Java Programming/Search Folder",
-    "CM1210 Object Orientated Java Programming/Notes",
-    "CM1208 Maths for Computer Science/Search Folder",
-    "CM1208 Maths for Computer Science/Notes",
-    "CM1205 Architecture and Operating Systems/Search Folder",
-    "CM1205 Architecture and Operating Systems/Notes",
-    "CM1101 Computational thinking/Search Folder/- CM1101 Computational thinking.md",
-    "CM1103 Problem Solving with Python/Notes",
-    "CM1101 Computational thinking/Search Folder/Beginning coding.md",
-    "CM1101 Computational thinking/Search Folder/Computer Architecture.md",
-    "CM1102 Web Applications/Search Folder/- CM1102 Web Applications.md",
-    "CM1101 Computational thinking/Notes",
-    "CM1102 Web Applications/Notes",
-    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Collaboration or Activity Diagrams.md",
-    "Extras/Images/Pasted image 20240117151825.png",
-    "Extras/Images/Pasted image 20240117151816.png",
-    "Extras/Images/Pasted image 20240117151438.png",
-    "Extras/Images/Pasted image 20240117151401.png",
-    "Extras/Images/Pasted image 20240117151335.png",
-    "Extras/Images/Pasted image 20240117151024.png",
-    "Extras/Images/Pasted image 20240117150924.png",
-    "Extras/Images/Pasted image 20240117150718.png",
-    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Modelling Object Orientated Programs Behaviour.md",
-    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Sequence Diagrams.md",
+    "CM1208 Maths for Computer Science/Notes/Week 5/Forays into Images and Graphics.md",
+    "CM1208 Maths for Computer Science/Notes/Week 5/More Searching about Images.md",
     "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Search Folder/- CM1301 Principles, Tools, and Techniques for Secure Software Engineering.md",
-    "Extras/Images/Pasted image 20240117145431.png",
-    "Extras/Images/Pasted image 20240117140836.png",
-    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Nervo/Sketching and Prototyping/Modelling with UML.md",
-    "CM1102 Web Applications/Notes/The Internet/Image File Formats.md",
-    "Extras/Old Cheat Sheets/Web Application Cheat Sheet - January.md",
-    "CM1102 Web Applications/Notes/The Internet/Text File Format.md",
-    "CM1102 Web Applications/Notes/Web Search Engines/Search Engines.md",
-    "CM1102 Web Applications/Notes/UNIX and Linux/Frank Langbein Useful Slides.md",
-    "CM1102 Web Applications/Notes/UNIX and Linux/UNIX and Linus.md",
-    "CM1103 Problem Solving with Python/Notes/Discrete Maths and Logic/Counting/The Counting Rules/The Product Rule.md"
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Carolina/Week 5/Software Development Methodologies/Software Development Methodologies.md",
+    "CM1210 Object Orientated Java Programming/Search Folder/- CM1210 Object Orientated Java Programming.md",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew/Java Coursework One/Java Implementation Skills.md",
+    "CM1210 Object Orientated Java Programming/Notes/Rhodri/Week 1/Abstract Data Types.md",
+    "Extras/Images/Pasted image 20240319095219.png",
+    "Extras/Images/Pasted image 20240319094830.png",
+    "Extras/Images/Pasted image 20240319094805.png",
+    "Extras/Images/Pasted image 20240319094751.png",
+    "Extras/Images/Pasted image 20240319094704.png",
+    "Extras/Images/Pasted image 20240319094656.png",
+    "Extras/Images/Pasted image 20240319094639.png",
+    "Extras/Images/Pasted image 20240319094632.png",
+    "Extras/Images/Pasted image 20240319092638.png",
+    "Extras/Images/Pasted image 20240319092328.png",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew/4. Object Orientated Programming with Composition & Inheritance and Polymorphism/Composition & Inheritance and Polymorphism.md",
+    "CM1210 Object Orientated Java Programming/Notes/Rhodri/Week 1",
+    "CM1210 Object Orientated Java Programming/Notes/Rhodri",
+    "CM1208 Maths for Computer Science/Notes/Week 4/Vectors, Searching and E-Commerce Recommendation.md",
+    "CM1208 Maths for Computer Science/Notes/Week 4/Searching and Trigonometric Functions.md",
+    "- Module Search.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 6/Slides/Procedures and Subroutines.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 6/Slides/String Instructions.md",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew/Java Coursework One",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Carolina/Week 8/Software Testing.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Carolina/Week 8",
+    "CM1205 Architecture and Operating Systems/Search Folder/- CM1205 Architecture and Operating Systems.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 3/Slides/Assembly Language.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Relating Topics/Loops and Jumps.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 6/Slides",
+    "CM1205 Architecture and Operating Systems/Notes/Week 6",
+    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Relating Topics/Addressing Modes.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Addressing Modes, Loops and Jumps.md",
+    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Backtracking Alorigthms/Backtracking Algorithms.md",
+    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Sorting Algorithms/Quick Sort.md",
+    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Backtracking Alorigthms/Problems Relating to Backtracking/N-Queens Problem.md",
+    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Backtracking Alorigthms/Problems Relating to Backtracking/Knapsack Problem.md",
+    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Backtracking Alorigthms/Problems Relating to Backtracking",
+    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Backtracking Alorigthms",
+    "Week 2",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Spring Week 3 and 4/Code Reliability.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Carolina/Week 6/Scrum vs Kanban/Scrum vs Kanban.md",
+    "Untitled.canvas"
   ]
 }

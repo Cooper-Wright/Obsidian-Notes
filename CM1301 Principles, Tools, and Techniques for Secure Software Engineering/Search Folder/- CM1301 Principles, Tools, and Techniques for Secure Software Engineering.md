@@ -23,5 +23,14 @@
 ### Code Reliability
 - [[Code Reliability]]
 
+### Software Development Methodologies
+- [[Software Development Methodologies]]
+
+### Scrum vs Kanban
+- [[Scrum vs Kanban]]
+
+### Software Testing
+- [[Software Testing]]
+
 ### Reading List
 - [[CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Reading List|Reading List]]

@@ -1,5 +1,5 @@
 {
-  "lastOpenLanguageTab": "python",
+  "lastOpenLanguageTab": "java",
   "timeout": 10000,
   "allowInput": true,
   "wslMode": false,
@@ -46,7 +46,7 @@
   "golangArgs": "run",
   "golangFileExtension": "go",
   "goInject": "",
-  "javaPath": "java",
+  "javaPath": "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/java.exe",
   "javaArgs": "-ea",
   "javaFileExtension": "java",
   "javaInject": "",

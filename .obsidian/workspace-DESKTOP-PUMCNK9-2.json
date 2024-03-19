@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "2b14a52635218d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "28e8b556a8081a04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db6b59681d6da2c1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Extras/Images/Pasted image 20240117145431.png"
+              }
+            }
+          },
+          {
+            "id": "91f975a5101cdb65",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2367ec3d1027b07",
+    "type": "split",
+    "children": [
+      {
+        "id": "67fbf556e56b47e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d867bde6540c30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23a3c79042218bcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fe7e23d6aa7348c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c625e50c7be65d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "f31cb08fdcc682b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d5b6b4d5255d15b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Extras/Images/Pasted image 20240117145431.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dac7fcb6199b40e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Extras/Images/Pasted image 20240117145431.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eba08bf1dbf44b9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "375b079e2ac5731a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Extras/Images/Pasted image 20240117145431.png"
+              }
+            }
+          },
+          {
+            "id": "4487ca0136a5eacd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "06ac4023bca44cea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "a0d867bde6540c30",
+  "lastOpenFiles": [
+    "Library and Referencing.md",
+    "CM1205 Architecture and Operating Systems/Notes/Introduction.md",
+    "Extras/Images/Pasted image 20240130102647.png",
+    "Extras/Images/Pasted image 20240117145431.png",
+    "Extras/Images/Pasted image 20240117151024.png",
+    "Extras/Images/Pasted image 20240117150718.png",
+    "Extras/Images/Pasted image 20240117150924.png",
+    "Extras/Images/Pasted image 20240117151825.png",
+    "Extras/Images/Pasted image 20240104124441.png",
+    "Extras/Images/Pasted image 20231120130415.png",
+    "Extras/Images/Pasted image 20231005114048.png",
+    "Extras/Old Cheat Sheets/Problem Solving with Python Cheat Sheet - January.md",
+    "Extras/Old Cheat Sheets/Web Application Cheat Sheet - January.md",
+    "Extras/Old Cheat Sheets/Principles, Tools and Techniques for Secure Software Engineering Cheat Sheet - January.md",
+    "Extras/Obsidian help page.md",
+    "CM1103 Problem Solving with Python/Notes/Discrete Maths and Logic/Sets and Functions/All Three Grand Tour Winners.md",
+    "CM1103 Problem Solving with Python/Notes/Discrete Maths and Logic/Sets and Functions/Sets/Sets and Their Operations.md",
+    "- Module Search.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Search Folder/- CM1301 Principles, Tools, and Techniques for Secure Software Engineering.md",
+    "CM1210 Object Orientated Java Programming/Search Folder/- CM1210 Object Orientated Java Programming.md",
+    "CM1208 Maths for Computer Science/Search Folder/- CM1208 Maths for Computer Science.md",
+    "CM1205 Architecture and Operating Systems/Search Folder/- CM1205 Architecture and Operating Systems.md",
+    "Extras/Images/Pasted image 20240130090929.png",
+    "CM1210 Object Orientated Java Programming/Notes/Introduction.md",
+    "CM1208 Maths for Computer Science/Notes/Week 1",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew/From Python to Java",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew/Object Orientated Programming with Composition & Inheritance and Polymorphism",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew/Objects and Classes in Java",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew/More Classes in Java",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew",
+    "CM1210 Object Orientated Java Programming/Notes/Reading List.md",
+    "CM1102 Web Applications/Notes/Web Search Engines/Search Engines.md",
+    "CM1101 Computational thinking/Notes/Beginning Coding/Natural vs Artificial Languages.md",
+    "CM1101 Computational thinking/Notes/Beginning Coding/How to be a better programmer.md",
+    "CM1102 Web Applications/Notes/The Internet/Image File Formats.md",
+    "CM1102 Web Applications/Notes/The Internet/Converting from Binary to Unicode UTF8.md",
+    "CM1101 Computational thinking/Notes/Computer Architecture/Data Representation/Binary Subtraction.md",
+    "CM1102 Web Applications/Notes/UNIX and Linux/Frank Langbein Useful Slides.md",
+    "CM1102 Web Applications/Notes/HTML, CSS, JavaScript and CGI/JavaScript/JavaScript.md",
+    "- Module Search - Copy.md",
+    "CM1103 Problem Solving with Python/Search Folder/- CM1103 Problem Solving with Python.md",
+    "Untitled.canvas",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes",
+    "CM1210 Object Orientated Java Programming/Search Folder",
+    "CM1210 Object Orientated Java Programming/Notes",
+    "CM1208 Maths for Computer Science/Search Folder"
+  ]
+}

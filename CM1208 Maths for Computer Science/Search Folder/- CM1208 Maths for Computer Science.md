@@ -20,5 +20,11 @@
 ### Searching and Trigonometric Functions
 - [[Searching and Trigonometric Functions]]
 
+### More Searching about Images
+- [[More Searching about Images]]
+
+### Forays into Images and Graphics
+- [[Forays into Images and Graphics]]
+
 ### Reading List
 - [[CM1208 Maths for Computer Science/Notes/Reading List|Reading List]]
