@@ -20,5 +20,11 @@
 ### CM1301 Principles, Tools, and Techniques for Secure Software Engineering
  - [[- CM1301 Principles, Tools, and Techniques for Secure Software Engineering|CM1301 Principles, Tools, and Techniques for Secure Software Engineering]]
 
+### Library and Referencing
+- [[Library and Referencing]]
+
+### Cheat Sheets
+- [[Cheat Sheet Search|Cheat Sheets]]
+
 #### Obsidian Help
 - [[Obsidian help page|Obsidian help page]]
