@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "09fc84d9ab504f78",
+        "id": "1d43a13e0485b70b",
         "type": "tabs",
         "children": [
           {
-            "id": "ccf988137bb99014",
+            "id": "fb1d0374975de8cb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Relating Slides/Secondary Memory, Input and Output and Buses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daf9a6e4e674046b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CM1208 Maths for Computer Science/Notes/Week 6/Slides/Image Compression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db41d07cc0aa6419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CM1208 Maths for Computer Science/Notes/Week 6/Slides/Image Compression.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "endian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CM1208 Maths for Computer Science/Notes/Week 6/Slides/Image Compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CM1208 Maths for Computer Science/Notes/Week 6/Slides/Image Compression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CM1208 Maths for Computer Science/Notes/Week 6/Slides/Image Compression.md"
+              }
             }
           },
           {
@@ -161,31 +194,45 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ccf988137bb99014",
+  "active": "db41d07cc0aa6419",
   "lastOpenFiles": [
+    "Extras/Images/Pasted image 20240402163558.png",
+    "Extras/Images/Pasted image 20240402163509.png",
+    "Extras/Images/Pasted image 20240402163451.png",
+    "Extras/Images/Pasted image 20240402162829.png",
+    "Extras/Images/Pasted image 20240402162722.png",
+    "Extras/Images/Pasted image 20240402162716.png",
+    "Extras/Images/Pasted image 20240402162540.png",
+    "Extras/Images/Pasted image 20240402162207.png",
+    "Extras/Images/Pasted image 20240402162139.png",
+    "Extras/Images/Pasted image 20240402162023.png",
+    "Extras/Images/Pasted image 20240402161942.png",
+    "CM1208 Maths for Computer Science/Notes/Week 6/Week 6 Slides.md",
+    "CM1208 Maths for Computer Science/Notes/Week 6/Slides",
+    "CM1208 Maths for Computer Science/Notes/Week 6/Slides/Image Compression.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Relating Slides/Secondary Memory, Input and Output and Buses.md",
+    "CM1208 Maths for Computer Science/Notes/Week 6",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Relating Slides/Memory.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Memory, Secondary Memory, Input and Output and Buses.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 4/Slides/Relating Topics/Instruction Set Architecture.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Relating Topics/Loops and Jumps.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Addressing Modes, Loops and Jumps.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Relating Topics/Addressing Modes.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Relating Slides",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides",
+    "CM1208 Maths for Computer Science/Notes/Week 4/Vectors, Searching and E-Commerce Recommendation.md",
+    "CM1208 Maths for Computer Science/Notes/Week 4/Searching and Trigonometric Functions.md",
+    "CM1208 Maths for Computer Science/Notes/Week 5/More Searching about Images.md",
+    "CM1210 Object Orientated Java Programming/Notes/Rhodri/Week 1/Abstract Data Types.md",
     "CM1208 Maths for Computer Science/Search Folder/- CM1208 Maths for Computer Science.md",
     "CM1208 Maths for Computer Science/Notes/Week 5/Forays into Images and Graphics.md",
-    "CM1208 Maths for Computer Science/Notes/Week 5/More Searching about Images.md",
     "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Search Folder/- CM1301 Principles, Tools, and Techniques for Secure Software Engineering.md",
     "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Carolina/Week 5/Software Development Methodologies/Software Development Methodologies.md",
     "CM1210 Object Orientated Java Programming/Search Folder/- CM1210 Object Orientated Java Programming.md",
     "CM1210 Object Orientated Java Programming/Notes/Matthew/Java Coursework One/Java Implementation Skills.md",
-    "CM1210 Object Orientated Java Programming/Notes/Rhodri/Week 1/Abstract Data Types.md",
-    "Extras/Images/Pasted image 20240319095219.png",
-    "Extras/Images/Pasted image 20240319094830.png",
-    "Extras/Images/Pasted image 20240319094805.png",
-    "Extras/Images/Pasted image 20240319094751.png",
-    "Extras/Images/Pasted image 20240319094704.png",
-    "Extras/Images/Pasted image 20240319094656.png",
-    "Extras/Images/Pasted image 20240319094639.png",
-    "Extras/Images/Pasted image 20240319094632.png",
-    "Extras/Images/Pasted image 20240319092638.png",
-    "Extras/Images/Pasted image 20240319092328.png",
     "CM1210 Object Orientated Java Programming/Notes/Matthew/4. Object Orientated Programming with Composition & Inheritance and Polymorphism/Composition & Inheritance and Polymorphism.md",
     "CM1210 Object Orientated Java Programming/Notes/Rhodri/Week 1",
     "CM1210 Object Orientated Java Programming/Notes/Rhodri",
-    "CM1208 Maths for Computer Science/Notes/Week 4/Vectors, Searching and E-Commerce Recommendation.md",
-    "CM1208 Maths for Computer Science/Notes/Week 4/Searching and Trigonometric Functions.md",
     "- Module Search.md",
     "CM1205 Architecture and Operating Systems/Notes/Week 6/Slides/Procedures and Subroutines.md",
     "CM1205 Architecture and Operating Systems/Notes/Week 6/Slides/String Instructions.md",
@@ -194,21 +241,7 @@
     "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Carolina/Week 8/Software Testing.md",
     "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Carolina/Week 8",
     "CM1205 Architecture and Operating Systems/Search Folder/- CM1205 Architecture and Operating Systems.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 3/Slides/Assembly Language.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Relating Topics/Loops and Jumps.md",
     "CM1205 Architecture and Operating Systems/Notes/Week 6/Slides",
-    "CM1205 Architecture and Operating Systems/Notes/Week 6",
-    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Relating Topics/Addressing Modes.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Addressing Modes, Loops and Jumps.md",
-    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Backtracking Alorigthms/Backtracking Algorithms.md",
-    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Sorting Algorithms/Quick Sort.md",
-    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Backtracking Alorigthms/Problems Relating to Backtracking/N-Queens Problem.md",
-    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Backtracking Alorigthms/Problems Relating to Backtracking/Knapsack Problem.md",
-    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Backtracking Alorigthms/Problems Relating to Backtracking",
-    "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Backtracking Alorigthms",
-    "Week 2",
-    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Spring Week 3 and 4/Code Reliability.md",
-    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Carolina/Week 6/Scrum vs Kanban/Scrum vs Kanban.md",
     "Untitled.canvas"
   ]
 }
