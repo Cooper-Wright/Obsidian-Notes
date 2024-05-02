@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "2b14a52635218d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc82a7cb5412b48c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a0a24547c5127ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CM1103 Problem Solving with Python/Discrete Maths and Logic/Logic/Logic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83b6efff0a72ef24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2367ec3d1027b07",
+    "type": "split",
+    "children": [
+      {
+        "id": "67fbf556e56b47e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d867bde6540c30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23a3c79042218bcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Brooklyn_Nine-Nine",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fe7e23d6aa7348c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c625e50c7be65d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "f31cb08fdcc682b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d5b6b4d5255d15b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dac7fcb6199b40e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eba08bf1dbf44b9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "375b079e2ac5731a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "4487ca0136a5eacd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "83b6efff0a72ef24",
+  "lastOpenFiles": [
+    "CM1103 Problem Solving with Python/Discrete Maths and Logic/Logic/Logic.md",
+    "Untitled.md",
+    "CM1102 Web Applications/HTML, CSS and JavaScript/HTML.md",
+    "Images/Pasted image 20231101114601.png",
+    "Obsidian help page.md",
+    "CM1102 Web Applications/HTML, CSS and JavaScript/CSS.md",
+    "CM1102 Web Applications/The Internet/The History of the Internet.md",
+    "CM1102 Web Applications/The Internet/Text File Format.md",
+    "CM1102 Web Applications/The Internet/The Internet.md",
+    "CM1102 Web Applications/The Internet/Converting from Binary to Unicode UTF8.md",
+    "CM1102 Web Applications/Search folder/- CM1102 Web Applications.md",
+    "CM1102 Web Applications/HTML, CSS and JavaScript",
+    "To Do List.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Reading List.md",
+    "- Module Search.md",
+    "CM1102 Web Applications/Introduction.md",
+    "CM1103 Problem Solving with Python/Problem Solving/Algorithms.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/MoSCoW Examples.md",
+    "CM1103 Problem Solving with Python/Problem Solving",
+    "Learning.md",
+    "CM1103 Problem Solving with Python/Reading List.md",
+    "CM1102 Web Applications/Reading List.md",
+    "CM1101 Computational thinking/Reading list.md",
+    "Images/Pasted image 20231031122708.png",
+    "Images/Pasted image 20231031122402.png",
+    "Images/Pasted image 20231031121124.png",
+    "Images/Pasted image 20231031122851.png",
+    "Images/Pasted image 20231031114028.png",
+    "Images/Pasted image 20231031113806.png",
+    "Images/Pasted image 20231031112304.png",
+    "CM1102 Web Applications/The Internet",
+    "CM1103 Problem Solving with Python/Search folder/- CM1103 Problem Solving with Python.md",
+    "CM1103 Problem Solving with Python/Introduction.md",
+    "CM1102 Web Applications/Search folder",
+    "CM1102 Web Applications",
+    "Images/Pasted image 20231031093909.png",
+    "Credits.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Introduction.md",
+    "Images/Pasted image 20231031093040.png",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Search folder/- CM1301 Principles, Tools, and Techniques for Secure Software Engineering.md",
+    "CM1103 Problem Solving with Python/Discrete Maths and Logic/Logic/Disconjunction.md",
+    "CM1103 Problem Solving with Python/Discrete Maths and Logic/Logic",
+    "CM1103 Problem Solving with Python/Discrete Maths and Logic",
+    "CM1103 Problem Solving with Python/Search folder",
+    "CM1103 Problem Solving with Python",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Search folder",
+    "Untitled.canvas"
+  ]
+}

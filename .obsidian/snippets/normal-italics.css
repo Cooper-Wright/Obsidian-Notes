@@ -1,0 +1,9 @@
+.normal-italics .cm-scroller {
+    font-style: italic;
+    color: #e0d2bb;
+}
+
+.normal-italics + .markdown-reading-view > .markdown-preview-view {
+    font-style: italic;
+    color: #e0d2bb;
+}

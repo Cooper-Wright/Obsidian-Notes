@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "2b14a52635218d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d43a13e0485b70b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db41d07cc0aa6419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Sorting Algorithms/Quick Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2367ec3d1027b07",
+    "type": "split",
+    "children": [
+      {
+        "id": "67fbf556e56b47e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d867bde6540c30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23a3c79042218bcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "endian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fe7e23d6aa7348c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c625e50c7be65d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "f31cb08fdcc682b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d5b6b4d5255d15b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Sorting Algorithms/Quick Sort.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dac7fcb6199b40e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Sorting Algorithms/Quick Sort.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eba08bf1dbf44b9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "375b079e2ac5731a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CM1210 Object Orientated Java Programming/Notes/Neetesh/Week 1 and Week 2/Sorting Algorithms/Quick Sort.md"
+              }
+            }
+          },
+          {
+            "id": "4487ca0136a5eacd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "06ac4023bca44cea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "db41d07cc0aa6419",
+  "lastOpenFiles": [
+    "CM1210 Object Orientated Java Programming/Search Folder/- CM1210 Object Orientated Java Programming.md",
+    "- Module Search.md",
+    "CM1208 Maths for Computer Science/Search Folder/- CM1208 Maths for Computer Science.md",
+    "CM1208 Maths for Computer Science/Notes/Week 6/Image Compression.md",
+    "CM1208 Maths for Computer Science/Notes/Week 6/Week 6 Slides.md",
+    "Extras/Images/Pasted image 20240402163558.png",
+    "Extras/Images/Pasted image 20240402163509.png",
+    "Extras/Images/Pasted image 20240402163451.png",
+    "Extras/Images/Pasted image 20240402162829.png",
+    "Extras/Images/Pasted image 20240402162722.png",
+    "Extras/Images/Pasted image 20240402162716.png",
+    "Extras/Images/Pasted image 20240402162540.png",
+    "Extras/Images/Pasted image 20240402162207.png",
+    "Extras/Images/Pasted image 20240402162139.png",
+    "Extras/Images/Pasted image 20240402162023.png",
+    "CM1208 Maths for Computer Science/Notes/Week 6/Slides",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Relating Slides/Secondary Memory, Input and Output and Buses.md",
+    "CM1208 Maths for Computer Science/Notes/Week 6",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Relating Slides/Memory.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Memory, Secondary Memory, Input and Output and Buses.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 4/Slides/Relating Topics/Instruction Set Architecture.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Relating Topics/Loops and Jumps.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Addressing Modes, Loops and Jumps.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Relating Topics/Addressing Modes.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Relating Slides",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides",
+    "CM1208 Maths for Computer Science/Notes/Week 4/Vectors, Searching and E-Commerce Recommendation.md",
+    "CM1208 Maths for Computer Science/Notes/Week 4/Searching and Trigonometric Functions.md",
+    "CM1208 Maths for Computer Science/Notes/Week 5/More Searching about Images.md",
+    "CM1210 Object Orientated Java Programming/Notes/Rhodri/Week 1/Abstract Data Types.md",
+    "CM1208 Maths for Computer Science/Notes/Week 5/Forays into Images and Graphics.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Search Folder/- CM1301 Principles, Tools, and Techniques for Secure Software Engineering.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Carolina/Week 5/Software Development Methodologies/Software Development Methodologies.md",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew/Java Coursework One/Java Implementation Skills.md",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew/4. Object Orientated Programming with Composition & Inheritance and Polymorphism/Composition & Inheritance and Polymorphism.md",
+    "CM1210 Object Orientated Java Programming/Notes/Rhodri/Week 1",
+    "CM1210 Object Orientated Java Programming/Notes/Rhodri",
+    "CM1205 Architecture and Operating Systems/Notes/Week 6/Slides/Procedures and Subroutines.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 6/Slides/String Instructions.md",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew/Java Coursework One",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Carolina/Week 8/Software Testing.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Carolina/Week 8",
+    "CM1205 Architecture and Operating Systems/Search Folder/- CM1205 Architecture and Operating Systems.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 6/Slides",
+    "Untitled.canvas"
+  ]
+}

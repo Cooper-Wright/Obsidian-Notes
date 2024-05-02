@@ -1,0 +1,10 @@
+{
+  "accentColor": "#dd24eb",
+  "cssTheme": "Prism",
+  "baseFontSize": 14,
+  "translucency": false,
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "normal-italics"
+  ]
+}
