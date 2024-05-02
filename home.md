@@ -26,5 +26,8 @@
 ### Cheat Sheets
 - [[Cheat Sheet Search|Cheat Sheets]]
 
+### Templates
+- [[Template Search|Templates]]
+
 #### Obsidian Help
 - [[Obsidian help page|Obsidian help page]]
