@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02524e501dcd97e4",
+        "id": "cbacd15e22a0bf69",
         "type": "tabs",
         "children": [
           {
-            "id": "d5779878b89b6e24",
+            "id": "b6bd342f5f825b8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CM1205 Architecture and Operating Systems/Notes/Week 11/Slides/Process Synchronisation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM1205 Architecture and Operating Systems/Notes/Week 11/Slides/Process Synchronisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM1205 Architecture and Operating Systems/Notes/Week 11/Slides/Process Synchronisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CM1205 Architecture and Operating Systems/Notes/Week 11/Slides/Process Synchronisation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,53 +185,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5779878b89b6e24",
+  "active": "b6bd342f5f825b8b",
   "lastOpenFiles": [
-    "CM1205 Architecture and Operating Systems/Notes/Week 11/Slides/Memory Management.md",
-    "Extras/Images/Pasted image 20240502135619.png",
-    "Extras/Images/Pasted image 20240502135545.png",
-    "Extras/Images/Pasted image 20240502135529.png",
-    "Extras/Images/Pasted image 20240502135500.png",
-    "Extras/Images/Pasted image 20240502135235.png",
-    "Extras/Images/Pasted image 20240502135140.png",
-    "Extras/Images/Pasted image 20240502134950.png",
-    "Extras/Images/Pasted image 20240502134255.png",
-    "Extras/Images/Pasted image 20240502134254.png",
-    "Extras/Images/Pasted image 20240502134223.png",
-    "CM1205 Architecture and Operating Systems/Notes/Week 11/Processes, Threads, Process Synchronisation and Memory Management.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 11/Slides/Process Synchronisation.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 11/Slides/Processes and Threads.md",
-    "Extras/Templates/Main Template.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Relating Topics/Addressing Modes.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Relating Topics/Loops and Jumps.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 5/Slides/Addressing Modes, Loops and Jumps.md",
-    "CM1205 Architecture and Operating Systems/Search Folder/- CM1205 Architecture and Operating Systems.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 10/Introduction to Operating Systems.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 11/Slides",
-    "CM1210 Object Orientated Java Programming/Search Folder/- CM1210 Object Orientated Java Programming.md",
-    "CM1210 Object Orientated Java Programming/Notes/Java Coursework One/Coursework 2/Java Coursework 2 Question 2.md",
-    "CM1210 Object Orientated Java Programming/Notes/Java Coursework One/Coursework 2/Java Coursework 2 Question 1.md",
-    "CM1205 Architecture and Operating Systems/Notes/Introduction.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 8 and Week 9/Slides/Memory, Secondary Memory, Input and Output and Buses.md",
-    "CM1208 Maths for Computer Science/Search Folder/- CM1208 Maths for Computer Science.md",
-    "CM1208 Maths for Computer Science/Notes/Week 8/Transformations and Pattern Matching.md",
-    "CM1208 Maths for Computer Science/Notes/Week 6/Image Manipulation, Compression, Transformation and Multiplication.md",
-    "CM1208 Maths for Computer Science/Notes/Week 6/Week 6 Slides.md",
-    "CM1210 Object Orientated Java Programming/Notes/Rhodri/Week 2/Linked Lists.md",
-    "CM1210 Object Orientated Java Programming/Notes/Rhodri/Week 1/Abstract Data Types.md",
-    "Daily Notes/14-04-2024.md",
     "Extras/Templates/Template Search.md",
-    "Extras/Templates/Notes Topic Template.md",
+    "Extras/Templates/Text Styler.md",
     "Extras/Templates/Notes Start Template.md",
-    "CM1205 Architecture and Operating Systems/Notes/Week 11",
-    "CM1205 Architecture and Operating Systems/Notes/Week 10",
-    "CM1210 Object Orientated Java Programming/Notes/Java Coursework One/Coursework 2",
-    "CM1210 Object Orientated Java Programming/Notes/Java Coursework One/Coursework 1",
-    "Extras/Images/IMG_2945 1.heic",
-    "Extras/Images/IMG_2945.heic",
-    "Extras/Images/IMG_2947.heic",
+    "Extras/Templates/Daily Template.md",
+    "Extras/Templates/Notes Topic Template.md",
+    "Extras/Templates/Main Template.md",
+    "Extras/Templates",
+    "Extras/Images/Pasted image 20240501183657.png",
+    "Extras/Images/Pasted image 20240501175436.png",
+    "Extras/Images/Pasted image 20240501175408.png",
+    "Extras/Images/Pasted image 20240501172727.png",
+    "Extras/Images/Pasted image 20240501172711.png",
+    "Extras/Images/Pasted image 20240501172341.png",
+    "Extras/Images/Pasted image 20240501172323.png",
+    "Extras/Images/Pasted image 20240501172200.png",
+    "Extras/Images/Pasted image 20240501171918.png",
+    "Extras/Images/Pasted image 20240501171439.png",
+    "CM1208 Maths for Computer Science/Notes/Week 8/Transformations and Pattern Matching.md",
     "CM1208 Maths for Computer Science/Notes/Week 8",
+    "Extras/Images/IMG_2947.heic",
+    "Extras/Images/IMG_2945.heic",
+    "Extras/Images/IMG_2945 1.heic",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Yulia/Introduction to Cyber Security.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Yulia/Cyber Security Principles.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Yulia",
+    "CM1210 Object Orientated Java Programming/Notes/Rhodri/Week 2/Linked Lists.md",
     "CM1210 Object Orientated Java Programming/Notes/Rhodri/Week 2",
+    "CM1210 Object Orientated Java Programming/Notes/Java Coursework One/Coursework 1/Java Implementation Skills.md",
+    "CM1210 Object Orientated Java Programming/Notes/Java Coursework One/Coursework 2/Java Coursework 2 Question 1.md",
+    "CM1210 Object Orientated Java Programming/Notes/Java Coursework One/Coursework 2/Java Coursework 2 Question 2.md",
+    "CM1210 Object Orientated Java Programming/Notes/Java Coursework One/Coursework 1",
+    "CM1210 Object Orientated Java Programming/Notes/Java Coursework One/Coursework 2",
+    "CM1210 Object Orientated Java Programming/Notes/Java Coursework One",
+    "CM1208 Maths for Computer Science/Notes/Week 6/Week 6 Slides.md",
+    "home.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Sequence Diagrams.md",
+    "CM1301 Principles, Tools, and Techniques for Secure Software Engineering/Notes/Daniel/Object Orientated Programming/Modelling Object Orientated Programs Behaviour/Collaboration or Activity Diagrams.md",
+    "CM1210 Object Orientated Java Programming/Notes/Matthew/Java Coursework One/Java Implementation Skills.md",
+    "CM1208 Maths for Computer Science/Notes/Week 6/Slides/Image Compression.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Relating Slides/Secondary Memory, Input and Output and Buses.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Relating Slides/Memory.md",
+    "CM1205 Architecture and Operating Systems/Notes/Week 8/Slides/Memory, Secondary Memory, Input and Output and Buses.md",
+    "CM1102 Web Applications/Notes/Web Search Engines/Search Engines.md",
+    "CM1102 Web Applications/Notes/UNIX and Linux/UNIX and Linus.md",
+    "CM1102 Web Applications/Notes/UNIX and Linux/Frank Langbein Useful Slides.md",
+    "CM1102 Web Applications/Notes/The Internet/The Internet.md",
     "Untitled.canvas"
   ]
 }
